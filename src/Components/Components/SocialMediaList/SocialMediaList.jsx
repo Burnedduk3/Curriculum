@@ -1,10 +1,10 @@
 import React from "react"
-import Cellphone from "../../Images/Icons/icons8-phone-message-100.png"
-import GitHub from "../../Images/Icons/icons8-github-100.png"
-import GitLab from "../../Images/Icons/icons8-gitlab-96.png"
-import Mail from "../../Images/Icons/icons8-composing-mail-96.png"
-import LinkedIn from "../../Images/Icons/icons8-linkedin-100.png"
-import "../../CSS/Style.css "
+import Cellphone from "../../../Images/Icons/icons8-phone-message-100.png"
+import GitHub from "../../../Images/Icons/icons8-github-100.png"
+import GitLab from "../../../Images/Icons/icons8-gitlab-96.png"
+import Mail from "../../../Images/Icons/icons8-composing-mail-96.png"
+import LinkedIn from "../../../Images/Icons/icons8-linkedin-100.png"
+import "./SocialMediaList.css"
 
 function SocialMediaList(){
     return(

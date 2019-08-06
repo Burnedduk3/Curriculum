@@ -1,6 +1,6 @@
 import React from "react"
 import PersonalImage from "../../Images/NormalSize/Cabrera.jpg"
-import SocialMediaList from "../ChildComponents/SocialMediaList"
+import SocialMediaList from "../Components/SocialMediaList"
 
 
 

@@ -1,9 +1,9 @@
 import React from "react"
-import Cellphone from "../../../Images/Icons/icons8-phone-message-100.png"
-import GitHub from "../../../Images/Icons/icons8-github-100.png"
-import GitLab from "../../../Images/Icons/icons8-gitlab-96.png"
-import Mail from "../../../Images/Icons/icons8-composing-mail-96.png"
-import LinkedIn from "../../../Images/Icons/icons8-linkedin-100.png"
+import Cellphone from "../../assets/Images/Icons/icons8-phone-message-100.png"
+import GitHub from "../../assets/Images/Icons/icons8-github-100.png"
+import GitLab from "../../assets/Images/Icons/icons8-gitlab-96.png"
+import Mail from "../../assets/Images/Icons/icons8-composing-mail-96.png"
+import LinkedIn from "../../assets/Images/Icons/icons8-linkedin-100.png"
 import "./SocialMediaList.css"
 
 function SocialMediaList(){
@@ -23,12 +23,13 @@ function SocialMediaList(){
                         </a>
                         GitLab: Burnedduk3
                     </li>
-                    <li><img src={Mail} alt=""/>Mail: juandavid.juandis@gmail.com</li>
                     <li>
                         <a href="https://www.linkedin.com/in/juan-cabrera-75b43b179/">
                             <img src={LinkedIn} alt=""/>
                         </a>
-                        LinkedIn: Juan David Cabrera Duran</li>
+                        LinkedIn: Juan David Cabrera Duran
+                    </li>
+                    <li><img src={Mail} alt=""/>Mail: juandavid.juandis@gmail.com</li>
                 </ul>
             </div>
     );

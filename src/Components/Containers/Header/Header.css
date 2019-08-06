@@ -1,0 +1,8 @@
+.Header_Image{
+    width: 300px;
+}
+.Header{
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+}

@@ -1,10 +1,11 @@
 import React from "react"
+import "./MainContent.css"
 
 function MainContent(){
     return(
-        <div>
+        <main className="MainContent">
             <h1>Hello I am the main content</h1>
-        </div>
+        </main>
     )
 }
 

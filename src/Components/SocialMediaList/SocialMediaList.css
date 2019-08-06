@@ -1,0 +1,27 @@
+.SocialMedia{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100vw;
+}
+
+.MediaList{
+    display: flex;
+    flex-direction: initial;
+    text-align: center;
+}
+
+.MediaList li{
+    display: block;
+    width: 100px;
+    margin: 20px;
+    font-size: 15px;
+    justify-content: flex-start;
+}
+
+.MediaList li img{
+    padding: 0;
+    margin: 3px;
+    width: 30px;
+    height: 30px;
+}

@@ -1,5 +1,5 @@
 .SocialMedia{
-    display: flex;
+    display: inline-block;
     flex-direction: column;
     text-align: center;
     width: 100vw;
@@ -8,12 +8,12 @@
 .MediaList{
     display: flex;
     flex-direction: initial;
-    text-align: center;
+    justify-content: center;
 }
 
 .MediaList li{
     display: block;
-    width: 100px;
+    width: 200px;
     margin: 20px;
     font-size: 15px;
     justify-content: flex-start;

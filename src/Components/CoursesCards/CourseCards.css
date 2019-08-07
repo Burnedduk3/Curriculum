@@ -1,0 +1,20 @@
+.CoursesCards{
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+}
+
+.courseCard{
+    display: flex;
+    width: 350px;
+    height: 600px;
+    flex-direction: column;
+    margin: 0px 10px 0px 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+.courseCard a img{
+    width: 300px;
+    height: 160px;
+}

@@ -1,0 +1,9 @@
+.MainContent{
+    display: block;
+    justify-content: center;
+}
+
+.EducationTitle{
+    display: flex;
+    justify-content: center;
+}

@@ -2,28 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc32eb4a-4575-4771-a154-48b3ba96a30b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Info/Info.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Info/Info.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/RepresentativeGroups/RepresentativeGroups.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/RepresentativeGroups/RepresentativeGroups.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Images/NormalSize/UniversidadDeLaSabana.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Containers/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/Footer/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Containers/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/Footer/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Containers/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/Header/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Containers/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/CoursesCards/CourseCards.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CoursesCards/CourseCards.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/CoursesCards/CoursesCards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CoursesCards/CoursesCards.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/EducationCard/EducationCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/EducationCard/EducationCard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/EducationCard/EducationCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/EducationCard/EducationCard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/Images/NormalSize/ColegioColombo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/Images/NormalSize/ColegioColombo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/Images/NormalSize/UniversidadDeLaSabana.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/Styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/RepresentativeGroups/RepresentativeGroups.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/RepresentativeGroups/RepresentativeGroups.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +110,7 @@
       <workItem from="1565281798420" duration="2253000" />
       <workItem from="1565287681342" duration="7051000" />
       <workItem from="1565297577558" duration="1779000" />
+      <workItem from="1565357466312" duration="1150000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1565104254690</created>

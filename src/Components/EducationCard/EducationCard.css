@@ -17,8 +17,15 @@
     border-color: #66FCF1;
     color: #45A29E;
     border-width: 3px;
+    min-width: 300px;
+    min-height: 400px;
 }
 
 .Card img{
     width: 20vh;
+    height: 20vh;
+    max-width: 200px;
+    max-height: 220px;
+    min-width: 100px;
+    min-height: 120px;
 }

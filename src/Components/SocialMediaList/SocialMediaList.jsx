@@ -1,5 +1,4 @@
 import React from "react"
-import Cellphone from "../../assets/Images/Icons/icons8-phone-message-100.png"
 import GitHub from "../../assets/Images/Icons/icons8-github-100.png"
 import GitLab from "../../assets/Images/Icons/icons8-gitlab-96.png"
 import Mail from "../../assets/Images/Icons/icons8-composing-mail-96.png"
@@ -10,7 +9,6 @@ function SocialMediaList(){
     return(
             <div className="SocialMedia">
                 <ul className="MediaList">
-                    <li><img src={Cellphone} alt=""/>Cellphone: +57 316 740 4216</li>
                     <li>
                         <a href="https://github.com/Burnedduk3" target="_blank">
                             <img src={GitHub} alt=""/>

@@ -1,10 +1,11 @@
 import React from "react"
+import Info from "./../../Info/Info.jsx"
 import "./Footer.css"
 
 function Footer (){
     return(
         <footer className="Footer">
-            <h1>Hello</h1>
+        <Info/>
         </footer>
     )
 }

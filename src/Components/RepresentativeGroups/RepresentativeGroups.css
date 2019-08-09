@@ -1,0 +1,26 @@
+.RepresentativeTeams{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    align-items: flex-start;
+    padding: 10px;
+}
+
+.Team{
+    display: flex;
+    width: 312px;
+    height: 500px;
+    flex-direction: column;
+    align-self: flex-start;
+    margin: 10px 20px 10px 20px;
+    text-align: justify;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.Team a img{
+    width: 200px;
+    height: 220px;
+}

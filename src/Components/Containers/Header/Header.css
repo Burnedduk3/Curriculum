@@ -1,8 +1,24 @@
 .Header_Image{
-    width: 300px;
+    width: 30%;
+    border-radius: 50px;
+    padding: 10px;
+
 }
 .Header{
-    display: inline-block;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
     justify-content: center;
+}
+
+.Header h1{
+    font-size: 50px;
+    color: #66FCF1;
+    text-align: center;
+}
+
+.Header h2{
+    font-size: 20px;
+    color: #45A29E;
 }

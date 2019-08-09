@@ -2,81 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc32eb4a-4575-4771-a154-48b3ba96a30b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/CoursesCards/CourseCards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/CoursesCards/CoursesCards.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/EducationCard/EducationCard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/EducationCard/EducationCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Info/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Info/Info.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/RepresentativeGroups/RepresentativeGroups.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/RepresentativeGroups/RepresentativeGroups.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Images/NormalSize/UniversidadDeLaSabana.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Containers/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/Footer/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Containers/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/Footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Containers/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/Header/Header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Containers/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/Header/Header.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/CoursesCards/CourseCards.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CoursesCards/CourseCards.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/CoursesCards/CoursesCards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CoursesCards/CoursesCards.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/EducationCard/EducationCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/EducationCard/EducationCard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/EducationCard/EducationCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/EducationCard/EducationCard.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Images/NormalSize/ColegioColombo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/Images/NormalSize/ColegioColombo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Images/NormalSize/UniversidadDeLaSabana.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/styles/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/Styles.css" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Containers/Header/Header.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/styles/Styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Components/CoursesCards/CoursesCards.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/CoursesCards/CourseCards.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,105 +42,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/Components/MainContent.js" />
-        <option value="$PROJECT_DIR$/src/Components/Footer.js" />
-        <option value="$PROJECT_DIR$/src/Components/SocialMediaList.js" />
-        <option value="$PROJECT_DIR$/src/Components/Header.js" />
-        <option value="$PROJECT_DIR$/src/Components/MainComponents/Header.js" />
-        <option value="$PROJECT_DIR$/src/CSS/Style.css" />
-        <option value="$PROJECT_DIR$/src/Components/ChildComponents/SocialMediaList.js" />
-        <option value="$PROJECT_DIR$/src/Components/Components/SocialMediaList.js" />
-        <option value="$PROJECT_DIR$/src/Components/Components/SocialMedia/SocialMediaList.js" />
-        <option value="$PROJECT_DIR$/src/Components/Components/SocialMedia/SocialMediaList.css" />
-        <option value="$PROJECT_DIR$/src/Components/Components/SocialMediaList/SocialMediaList.js" />
-        <option value="$PROJECT_DIR$/src/Components/App.js" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/Components/App.jsx" />
-        <option value="$PROJECT_DIR$/src/Components/App.css" />
-        <option value="$PROJECT_DIR$/src/Components/Containers/Header/Header.css" />
-        <option value="$PROJECT_DIR$/src/Components/Containers/Footer/Footer.css" />
-        <option value="$PROJECT_DIR$/src/Components/Containers/Footer/Footer.jsx" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.css" />
-        <option value="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.js" />
-        <option value="$PROJECT_DIR$/src/Components/EducationCard/EducationCard.css" />
-        <option value="$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.css" />
-        <option value="$PROJECT_DIR$/src/Components/EducationCard/EducationCard.jsx" />
-        <option value="$PROJECT_DIR$/src/Components/CoursesCard/CoursesCard.js" />
-        <option value="$PROJECT_DIR$/src/Components/Containers/Header/Header.jsx" />
-        <option value="$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.jsx" />
-        <option value="$PROJECT_DIR$/src/Components/CoursesCard/CoursesCard.jsx" />
-        <option value="$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.jsx" />
-        <option value="$PROJECT_DIR$/src/Components/CoursesCards/CoursesCards.jsx" />
-        <option value="$PROJECT_DIR$/src/assets/styles/Styles.css" />
-        <option value="$PROJECT_DIR$/src/Components/CoursesCards/CourseCards.css" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="542" />
-    <option name="y" value="-9" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
-  </component>
+  <component name="ProjectId" id="1P6fH8MXRTDViOTPJT6cuMQ9A42" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
-              <item name="CoursesCards" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -257,6 +117,15 @@
       <workItem from="1565114545607" duration="1428000" />
       <workItem from="1565117885357" duration="6036000" />
       <workItem from="1565129412070" duration="366000" />
+      <workItem from="1565199381405" duration="7204000" />
+      <workItem from="1565210358574" duration="249000" />
+      <workItem from="1565223052534" duration="2275000" />
+      <workItem from="1565231918755" duration="2167000" />
+      <workItem from="1565267782468" duration="1228000" />
+      <workItem from="1565270185628" duration="954000" />
+      <workItem from="1565281798420" duration="2253000" />
+      <workItem from="1565287681342" duration="7051000" />
+      <workItem from="1565297577558" duration="1779000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1565104254690</created>
@@ -296,58 +165,21 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20065000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3296" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2176" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3296" />
-      <window_info anchor="bottom" id="GraphQL" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3296" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3296" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="npm" order="0" side_tool="true" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25" />
-      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="GraphQL" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.3296" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.3296" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
@@ -355,159 +187,5 @@
     <MESSAGE value="Apply all Comments" />
     <MESSAGE value="New Files added" />
     <option name="LAST_COMMIT_MESSAGE" value="New Files added" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CSS/Style.css" />
-    <entry file="file://$PROJECT_DIR$/src/Components/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/Font/Architex.ttf">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Containers/Footer/Footer.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Containers/Footer/Footer.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/Images/NormalSize/UniversidadDeLaSabana.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/App.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Containers/Header/Header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/SocialMediaList/SocialMediaList.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="31" column="86" lean-forward="true" selection-start-line="31" selection-start-column="86" selection-end-line="31" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/EducationCard/EducationCard.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/EducationCard/EducationCard.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/Images/NormalSize/coursera.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Containers/MainContent/MainContent.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Containers/Header/Header.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/styles/Styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/CoursesCards/CourseCards.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/CoursesCards/CoursesCards.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

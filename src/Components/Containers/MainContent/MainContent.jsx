@@ -1,6 +1,7 @@
 import React from "react"
 import EducationCard from "../../EducationCard/EducationCard"
 import  CoursesCards from "../../CoursesCards/CoursesCards"
+import RepresentativeGroups from "../../RepresentativeGroups/RepresentativeGroups"
 import "./MainContent.css"
 
 function MainContent(){
@@ -10,6 +11,8 @@ function MainContent(){
             <EducationCard/>
             <h1 className="EducationTitle">Courses</h1>
             <CoursesCards/>
+            <h1 className="EducationTitle">Representative Groups</h1>
+            <RepresentativeGroups/>
         </main>
     )
 }

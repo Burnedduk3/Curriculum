@@ -1,7 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Grenze|Libre+Caslon+Text|Merriweather&display=swap');
 
 .page{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Grenze', serif;
+    background-color:#0B0C10 ;
 }
+/*
+    Colors
+    #0B0C10 Dark Black
+    #1F2833 ligh gray
+    #C5C6C7 very light gray
+    #66FCF1 aqua
+    #45A29E Dark aqua
+ */

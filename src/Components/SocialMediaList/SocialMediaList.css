@@ -1,22 +1,29 @@
 .SocialMedia{
-    display: inline-block;
+    display: flex;
     flex-direction: column;
-    text-align: center;
-    width: 100vw;
+    justify-content: center;
+    width: 98vw;
+    background: #45A29E;
 }
 
 .MediaList{
     display: flex;
-    flex-direction: initial;
+    width: 80vw;
     justify-content: center;
+    align-self:center;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .MediaList li{
-    display: block;
+    display: flex;
+    align-items: center;
     width: 200px;
     margin: 20px;
     font-size: 15px;
     justify-content: flex-start;
+    flex-grow: 1;
+    color: #0B0C10;
 }
 
 .MediaList li img{

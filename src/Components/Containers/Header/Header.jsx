@@ -8,9 +8,9 @@ import "./Header.css"
 function Header() {
     return(
         <header className="Header">
-            <h1>Juan David Cabrera</h1>
-            <h2>Informatic Engineering Student</h2>
+            <h1>Juan David Cabrera Duran</h1>
             <img src={PersonalImage} alt="Personal" className="Header_Image"/>
+            <h2>Informatic Engineering Student</h2>
             <SocialMediaList/>
         </header>
     )

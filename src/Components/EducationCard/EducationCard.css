@@ -29,3 +29,9 @@
     min-width: 100px;
     min-height: 120px;
 }
+@media  (min-height: 600px){
+    .Card {
+        max-width: 400px;
+        max-height: 300px;
+    }
+}

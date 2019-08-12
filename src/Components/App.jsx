@@ -5,7 +5,7 @@ import Footer from "./Containers/Footer/Footer.jsx"
 import "./../assets/styles/Styles.css"
 import "./App.css"
 
-export default ()=>(
+export default () => (
     <div className="page">
         <Header/>
         <MainContent/>

@@ -1,8 +1,13 @@
 import React from 'react';
+import Header from '../../Components/Header';
+import SocialMediaContainer from '../../Components/SocialMedia';
 
 const Home = () => {
   return (
-    <h1>Hola del home</h1>
+    <>
+      <Header/>
+      <SocialMediaContainer/>
+    </>
   );
 };
 
